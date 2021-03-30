@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  metrics-server:
+  - apiVersion: v2
+    appVersion: 0.4.2
+    created: "2021-03-30T21:44:13.085680931Z"
+    description: 'Metrics Server is a scalable, efficient source of container resource
+      metrics for Kubernetes built-in autoscaling pipelines. '
+    digest: 79e5d71824b1321a9125cc2bcfe96a613186c666ae583a45acedace9c33fc9f3
+    name: metrics-server
+    type: application
+    urls:
+    - https://github.com/brunosimsenhor/charts/releases/download/metrics-server-0.5.0/metrics-server-0.5.0.tgz
+    version: 0.5.0
+generated: "2021-03-30T21:44:13.085687031Z"
